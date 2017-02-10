@@ -1,0 +1,35 @@
+*{
+    outline: 1px solid rgba(255, 0, 0, 0.32);
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.icono{
+    float: left;
+    padding: 5px 0; 
+    
+    
+}
+
+.iconodos {
+    font-size: 20px;
+    color: #312a2a;
+}
+
+.espacio {
+    padding-top: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.titulo {
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+    color: #312a2a;
+}
+
+.subtitle {
+    font-size: 12px;
+}
