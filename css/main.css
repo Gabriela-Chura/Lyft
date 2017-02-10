@@ -1,5 +1,66 @@
 *{
     outline: 1px solid rgba(255, 0, 0, 0.32);
-	background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/22/Lyft_Pink_Mustache.jpg);
 }
 
+.fondo {
+    background-image: url(../image/20150902-20150902-lyft-line-uber-pool-dating-carmel-9.0.jpg);
+    background-position: center;
+}
+
+.login {
+    float: left;
+    padding-top: 170px;
+}
+
+.singup {
+    float: right; 
+    padding-top: 170px;
+      
+}
+
+.imagen {
+    height: 100px;
+    margin: auto; 
+    color: white;
+}
+
+.titulo{
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+.transparente {
+border:0px solid #4c2165;
+border-radius: 3px;font-size:12px; 
+text-decoration:none; 
+display:inline-block;
+font-weight:bold; 
+background-color: rgba(255, 255, 255, 0);
+border: 1px solid white;
+padding: 10px 50px;
+}
+
+.color {
+border:0px solid #4c2165;
+border-radius: 3px;font-size:12px; 
+text-decoration:none; 
+display:inline-block;
+font-weight:bold; 
+color: #FFFFFF;
+background-color: #6C2F8F; 
+background-image: -webkit-gradient(linear, left top, left bottom, from(#6C2F8F), to(#e93cec));
+padding: 10px 50px;
+}
+
+.button a {
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+}
+
+.button a:hover {
+    text-decoration: none;
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+}
