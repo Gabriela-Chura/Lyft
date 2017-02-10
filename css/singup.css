@@ -1,6 +1,6 @@
-*{
+/**{
     outline: 1px solid rgba(255, 0, 0, 0.32);
-}
+}*/
 
 body {
     width: 100%;
@@ -9,9 +9,13 @@ body {
 
 .icono{
     float: left;
-    padding: 5px 0; 
-    
-    
+    padding: 5px 0px;
+	margin-left: 10px;
+}
+
+.iconmage{
+	height: 20px;
+	width: 20px;
 }
 
 .iconodos {
@@ -33,3 +37,48 @@ body {
 .subtitle {
     font-size: 12px;
 }
+
+.countries{
+	float: left;
+}
+
+.phone {
+	float:left; 
+}
+
+.next {
+	margin-top: 200px;
+}
+
+#next {
+	background-color: fuchsia;
+	border: 1px solid fuchsia;
+}
+
+#next a{
+	font-family: 'Muli', sans-serif;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.check{
+	padding-top: 5px;
+	font-family: 'Muli', sans-serif;
+}
+
+
+.checkbox a {
+	color: deepskyblue;
+	text-decoration: none;
+	font-family: 'Muli', sans-serif;
+		
+}
+
+.checkbox a:hover {
+	color: deepskyblue;
+	text-decoration: none;
+	font-family: 'Muli', sans-serif;
+}
+
+

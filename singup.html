@@ -7,18 +7,45 @@
 	<link rel="stylesheet" href="css/singup.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="icon/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </head>
 <body>
     <header class="espacio">
-        <div class="col-md-2 icono">
-                 <a href="index.html"><i class="icon-point-left iconodos"></i></a>
+        <div class="icono">
+                 <a href="index.html"><img src="image/1486765054_left_circle.png" class="iconmage" alt=""></a>
             </div>
-            <div class="col-md-10 titulo text-center">
+            <div class="titulo text-center">
                <p>Sing up</p> 
                 <p class="subtitle">Join now for free ride credit</p> 
             </div>
     </header>
-   
+   <section>
+    <div class="form-group">
+            <!--<label for="inpuFname">Text input with dropdown select</label>-->
+            <div class="input-group">
+                <input type="text" value="" class="form-control" name="text">
+                <div class="input-group-btn bs-dropdown-to-select-group">
+                    <button type="button" class="btn btn-default dropdown-toggle as-is bs-dropdown-to-select" data-toggle="dropdown">
+                        <span data-bind="bs-drp-sel-label">Select...</span>
+                        <input type="hidden" name="selected_value" data-bind="bs-drp-sel-value" value="">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Dropdown</span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu" style="">
+                        <li data-value="1"><a href="#">One</a></li>
+                        <li data-value="2"><a href="#">Two</a></li>
+                        <li data-value="3"><a href="#">Three</a></li>
+                    </ul>
+                </div>
+            </div>
+           <p class="subtitle text-center">We'll send a text to verify your phone.</p> 
+            <div class="next btn-block">
+    <button class="btn btn-large btn-block btn-primary" type="button" id="next"><a href="login.html">Next</a></button>
+</div>
+        </div>
+   </section>
 
 </body>
 </html>
