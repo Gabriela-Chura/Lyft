@@ -5,7 +5,11 @@ var jsonPaises = [
     "nom": "Afghanistan",
     "iso2": "AF",
     "iso3": "AFG",
-    "phone_code": 93
+    "phone_code": 93,
+	  "flag": "../image/1.png"
+
+	  
+	  
   },
   {
     "nombre": "Albania",
@@ -13,7 +17,10 @@ var jsonPaises = [
     "nom": "Albanie",
     "iso2": "AL",
     "iso3": "ALB",
-    "phone_code": 355
+    "phone_code": 355,
+	  "flag": "../image/1.png"
+	  
+	  
   },
   {
     "nombre": "Alemania",
@@ -21,7 +28,9 @@ var jsonPaises = [
     "nom": "Allemagne",
     "iso2": "DE",
     "iso3": "DEU",
-    "phone_code": 49
+    "phone_code": 49,
+	  "flag": "../image/1.png"
+	  
   },
   {
     "nombre": "Algeria",
@@ -29,7 +38,8 @@ var jsonPaises = [
     "nom": "Algérie",
     "iso2": "DZ",
     "iso3": "DZA",
-    "phone_code": 213
+    "phone_code": 213,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Andorra",
@@ -37,7 +47,8 @@ var jsonPaises = [
     "nom": "Andorra",
     "iso2": "AD",
     "iso3": "AND",
-    "phone_code": 376
+    "phone_code": 376,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Angola",
@@ -45,7 +56,8 @@ var jsonPaises = [
     "nom": "Angola",
     "iso2": "AO",
     "iso3": "AGO",
-    "phone_code": 244
+    "phone_code": 244,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Anguila",
@@ -53,7 +65,8 @@ var jsonPaises = [
     "nom": "Anguilla",
     "iso2": "AI",
     "iso3": "AIA",
-    "phone_code": "1 264"
+    "phone_code": "1 264",
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Antártida",
@@ -61,7 +74,8 @@ var jsonPaises = [
     "nom": "L'Antarctique",
     "iso2": "AQ",
     "iso3": "ATA",
-    "phone_code": 672
+    "phone_code": 672,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Antigua y Barbuda",
@@ -69,7 +83,8 @@ var jsonPaises = [
     "nom": "Antigua et Barbuda",
     "iso2": "AG",
     "iso3": "ATG",
-    "phone_code": "1 268"
+    "phone_code": "1 268",
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Antillas Neerlandesas",
@@ -77,7 +92,8 @@ var jsonPaises = [
     "nom": "Antilles Néerlandaises",
     "iso2": "AN",
     "iso3": "ANT",
-    "phone_code": 599
+    "phone_code": 599,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Arabia Saudita",
@@ -85,7 +101,8 @@ var jsonPaises = [
     "nom": "Arabie Saoudite",
     "iso2": "SA",
     "iso3": "SAU",
-    "phone_code": 966
+    "phone_code": 966,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Argentina",
@@ -93,7 +110,8 @@ var jsonPaises = [
     "nom": "Argentine",
     "iso2": "AR",
     "iso3": "ARG",
-    "phone_code": 54
+    "phone_code": 54,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Armenia",
@@ -101,7 +119,8 @@ var jsonPaises = [
     "nom": "L'Arménie",
     "iso2": "AM",
     "iso3": "ARM",
-    "phone_code": 374
+    "phone_code": 374,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Aruba",
@@ -109,7 +128,8 @@ var jsonPaises = [
     "nom": "Aruba",
     "iso2": "AW",
     "iso3": "ABW",
-    "phone_code": 297
+    "phone_code": 297,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Australia",
@@ -117,7 +137,8 @@ var jsonPaises = [
     "nom": "Australie",
     "iso2": "AU",
     "iso3": "AUS",
-    "phone_code": 61
+    "phone_code": 61,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Austria",
@@ -125,7 +146,8 @@ var jsonPaises = [
     "nom": "Autriche",
     "iso2": "AT",
     "iso3": "AUT",
-    "phone_code": 43
+    "phone_code": 43,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Azerbayán",
@@ -133,7 +155,8 @@ var jsonPaises = [
     "nom": "L'Azerbaïdjan",
     "iso2": "AZ",
     "iso3": "AZE",
-    "phone_code": 994
+    "phone_code": 994,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bélgica",
@@ -141,7 +164,8 @@ var jsonPaises = [
     "nom": "Belgique",
     "iso2": "BE",
     "iso3": "BEL",
-    "phone_code": 32
+    "phone_code": 32,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bahamas",
@@ -149,7 +173,8 @@ var jsonPaises = [
     "nom": "Bahamas",
     "iso2": "BS",
     "iso3": "BHS",
-    "phone_code": "1 242"
+    "phone_code": "1 242",
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bahrein",
@@ -157,7 +182,8 @@ var jsonPaises = [
     "nom": "Bahreïn",
     "iso2": "BH",
     "iso3": "BHR",
-    "phone_code": 973
+    "phone_code": 973,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bangladesh",
@@ -165,7 +191,8 @@ var jsonPaises = [
     "nom": "Bangladesh",
     "iso2": "BD",
     "iso3": "BGD",
-    "phone_code": 880
+    "phone_code": 880,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Barbados",
@@ -173,7 +200,8 @@ var jsonPaises = [
     "nom": "Barbade",
     "iso2": "BB",
     "iso3": "BRB",
-    "phone_code": "1 246"
+    "phone_code": "1 246",
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Belice",
@@ -181,7 +209,8 @@ var jsonPaises = [
     "nom": "Belize",
     "iso2": "BZ",
     "iso3": "BLZ",
-    "phone_code": 501
+    "phone_code": 501,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Benín",
@@ -189,7 +218,8 @@ var jsonPaises = [
     "nom": "Bénin",
     "iso2": "BJ",
     "iso3": "BEN",
-    "phone_code": 229
+    "phone_code": 229,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bhután",
@@ -197,7 +227,8 @@ var jsonPaises = [
     "nom": "Le Bhoutan",
     "iso2": "BT",
     "iso3": "BTN",
-    "phone_code": 975
+    "phone_code": 975,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bielorrusia",
@@ -205,7 +236,8 @@ var jsonPaises = [
     "nom": "Biélorussie",
     "iso2": "BY",
     "iso3": "BLR",
-    "phone_code": 375
+    "phone_code": 375,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Birmania",
@@ -213,7 +245,8 @@ var jsonPaises = [
     "nom": "Myanmar",
     "iso2": "MM",
     "iso3": "MMR",
-    "phone_code": 95
+    "phone_code": 95,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bolivia",
@@ -221,7 +254,8 @@ var jsonPaises = [
     "nom": "Bolivie",
     "iso2": "BO",
     "iso3": "BOL",
-    "phone_code": 591
+    "phone_code": 591,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bosnia y Herzegovina",
@@ -229,7 +263,8 @@ var jsonPaises = [
     "nom": "Bosnie-Herzégovine",
     "iso2": "BA",
     "iso3": "BIH",
-    "phone_code": 387
+    "phone_code": 387,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Botsuana",
@@ -237,7 +272,8 @@ var jsonPaises = [
     "nom": "Botswana",
     "iso2": "BW",
     "iso3": "BWA",
-    "phone_code": 267
+    "phone_code": 267,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Brasil",
@@ -245,7 +281,8 @@ var jsonPaises = [
     "nom": "Brésil",
     "iso2": "BR",
     "iso3": "BRA",
-    "phone_code": 55
+    "phone_code": 55,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Brunéi",
@@ -253,7 +290,8 @@ var jsonPaises = [
     "nom": "Brunei",
     "iso2": "BN",
     "iso3": "BRN",
-    "phone_code": 673
+    "phone_code": 673,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Bulgaria",
@@ -261,7 +299,8 @@ var jsonPaises = [
     "nom": "Bulgarie",
     "iso2": "BG",
     "iso3": "BGR",
-    "phone_code": 359
+    "phone_code": 359,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Burkina Faso",
@@ -269,7 +308,8 @@ var jsonPaises = [
     "nom": "Burkina Faso",
     "iso2": "BF",
     "iso3": "BFA",
-    "phone_code": 226
+    "phone_code": 226,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Burundi",
@@ -277,7 +317,8 @@ var jsonPaises = [
     "nom": "Burundi",
     "iso2": "BI",
     "iso3": "BDI",
-    "phone_code": 257
+    "phone_code": 257,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Cabo Verde",
@@ -285,7 +326,8 @@ var jsonPaises = [
     "nom": "Cap-Vert",
     "iso2": "CV",
     "iso3": "CPV",
-    "phone_code": 238
+    "phone_code": 238,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Camboya",
@@ -293,7 +335,8 @@ var jsonPaises = [
     "nom": "Cambodge",
     "iso2": "KH",
     "iso3": "KHM",
-    "phone_code": 855
+    "phone_code": 855,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Camerún",
@@ -301,7 +344,8 @@ var jsonPaises = [
     "nom": "Cameroun",
     "iso2": "CM",
     "iso3": "CMR",
-    "phone_code": 237
+    "phone_code": 237,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Canadá",
@@ -309,7 +353,8 @@ var jsonPaises = [
     "nom": "Canada",
     "iso2": "CA",
     "iso3": "CAN",
-    "phone_code": 1
+    "phone_code": 1,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Chad",
@@ -317,7 +362,8 @@ var jsonPaises = [
     "nom": "Tchad",
     "iso2": "TD",
     "iso3": "TCD",
-    "phone_code": 235
+    "phone_code": 235,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Chile",
@@ -325,7 +371,8 @@ var jsonPaises = [
     "nom": "Chili",
     "iso2": "CL",
     "iso3": "CHL",
-    "phone_code": 56
+    "phone_code": 56,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "China",
@@ -333,7 +380,8 @@ var jsonPaises = [
     "nom": "Chine",
     "iso2": "CN",
     "iso3": "CHN",
-    "phone_code": 86
+    "phone_code": 86,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Chipre",
@@ -341,7 +389,8 @@ var jsonPaises = [
     "nom": "Chypre",
     "iso2": "CY",
     "iso3": "CYP",
-    "phone_code": 357
+    "phone_code": 357,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Ciudad del Vaticano",
@@ -349,7 +398,8 @@ var jsonPaises = [
     "nom": "Cité du Vatican",
     "iso2": "VA",
     "iso3": "VAT",
-    "phone_code": 39
+    "phone_code": 39,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Colombia",
@@ -357,7 +407,8 @@ var jsonPaises = [
     "nom": "Colombie",
     "iso2": "CO",
     "iso3": "COL",
-    "phone_code": 57
+    "phone_code": 57,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Comoras",
@@ -365,7 +416,8 @@ var jsonPaises = [
     "nom": "Comores",
     "iso2": "KM",
     "iso3": "COM",
-    "phone_code": 269
+    "phone_code": 269,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Congo",
@@ -373,7 +425,8 @@ var jsonPaises = [
     "nom": "Congo",
     "iso2": "CG",
     "iso3": "COG",
-    "phone_code": 242
+    "phone_code": 242,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Congo",
@@ -381,7 +434,8 @@ var jsonPaises = [
     "nom": "Congo",
     "iso2": "CD",
     "iso3": "COD",
-    "phone_code": 243
+    "phone_code": 243,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Corea del Norte",
@@ -389,7 +443,8 @@ var jsonPaises = [
     "nom": "Corée du Nord",
     "iso2": "KP",
     "iso3": "PRK",
-    "phone_code": 850
+    "phone_code": 850,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Corea del Sur",
@@ -397,7 +452,8 @@ var jsonPaises = [
     "nom": "Corée du Sud",
     "iso2": "KR",
     "iso3": "KOR",
-    "phone_code": 82
+    "phone_code": 82,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Costa de Marfil",
@@ -405,7 +461,8 @@ var jsonPaises = [
     "nom": "Côte-d'Ivoire",
     "iso2": "CI",
     "iso3": "CIV",
-    "phone_code": 225
+    "phone_code": 225,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Costa Rica",
@@ -413,7 +470,8 @@ var jsonPaises = [
     "nom": "Costa Rica",
     "iso2": "CR",
     "iso3": "CRI",
-    "phone_code": 506
+    "phone_code": 506,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Croacia",
@@ -421,7 +479,8 @@ var jsonPaises = [
     "nom": "Croatie",
     "iso2": "HR",
     "iso3": "HRV",
-    "phone_code": 385
+    "phone_code": 385,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Cuba",
@@ -429,7 +488,8 @@ var jsonPaises = [
     "nom": "Cuba",
     "iso2": "CU",
     "iso3": "CUB",
-    "phone_code": 53
+    "phone_code": 53,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Dinamarca",
@@ -437,7 +497,8 @@ var jsonPaises = [
     "nom": "Danemark",
     "iso2": "DK",
     "iso3": "DNK",
-    "phone_code": 45
+    "phone_code": 45,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Dominica",
@@ -445,7 +506,8 @@ var jsonPaises = [
     "nom": "Dominique",
     "iso2": "DM",
     "iso3": "DMA",
-    "phone_code": "1 767"
+    "phone_code": "1 767",
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Ecuador",
@@ -453,7 +515,8 @@ var jsonPaises = [
     "nom": "Equateur",
     "iso2": "EC",
     "iso3": "ECU",
-    "phone_code": 593
+    "phone_code": 593,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Egipto",
@@ -461,7 +524,8 @@ var jsonPaises = [
     "nom": "Egypte",
     "iso2": "EG",
     "iso3": "EGY",
-    "phone_code": 20
+    "phone_code": 20,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "El Salvador",
@@ -469,7 +533,8 @@ var jsonPaises = [
     "nom": "El Salvador",
     "iso2": "SV",
     "iso3": "SLV",
-    "phone_code": 503
+    "phone_code": 503,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Emiratos Árabes Unidos",
@@ -477,7 +542,8 @@ var jsonPaises = [
     "nom": "Emirats Arabes Unis",
     "iso2": "AE",
     "iso3": "ARE",
-    "phone_code": 971
+    "phone_code": 971,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Eritrea",
@@ -485,7 +551,8 @@ var jsonPaises = [
     "nom": "Erythrée",
     "iso2": "ER",
     "iso3": "ERI",
-    "phone_code": 291
+    "phone_code": 291,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Eslovaquia",
@@ -493,7 +560,8 @@ var jsonPaises = [
     "nom": "Slovaquie",
     "iso2": "SK",
     "iso3": "SVK",
-    "phone_code": 421
+    "phone_code": 421,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Eslovenia",
@@ -501,7 +569,8 @@ var jsonPaises = [
     "nom": "Slovénie",
     "iso2": "SI",
     "iso3": "SVN",
-    "phone_code": 386
+    "phone_code": 386,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "España",
@@ -509,7 +578,8 @@ var jsonPaises = [
     "nom": "Espagne",
     "iso2": "ES",
     "iso3": "ESP",
-    "phone_code": 34
+    "phone_code": 34,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Estados Unidos de América",
@@ -517,7 +587,8 @@ var jsonPaises = [
     "nom": "États-Unis d'Amérique",
     "iso2": "US",
     "iso3": "USA",
-    "phone_code": 1
+    "phone_code": 1,
+	  "flag": "../image/1.png"
   },
   {
     "nombre": "Estonia",
@@ -525,7 +596,8 @@ var jsonPaises = [
     "nom": "L'Estonie",
     "iso2": "EE",
     "iso3": "EST",
-    "phone_code": 372
+    "phone_code": 372,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Etiopía",
@@ -533,7 +605,8 @@ var jsonPaises = [
     "nom": "Ethiopie",
     "iso2": "ET",
     "iso3": "ETH",
-    "phone_code": 251
+    "phone_code": 251,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Filipinas",
@@ -541,7 +614,8 @@ var jsonPaises = [
     "nom": "Philippines",
     "iso2": "PH",
     "iso3": "PHL",
-    "phone_code": 63
+    "phone_code": 63,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Finlandia",
@@ -549,7 +623,8 @@ var jsonPaises = [
     "nom": "Finlande",
     "iso2": "FI",
     "iso3": "FIN",
-    "phone_code": 358
+    "phone_code": 358,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Fiyi",
@@ -557,7 +632,8 @@ var jsonPaises = [
     "nom": "Fidji",
     "iso2": "FJ",
     "iso3": "FJI",
-    "phone_code": 679
+    "phone_code": 679,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Francia",
@@ -565,7 +641,8 @@ var jsonPaises = [
     "nom": "France",
     "iso2": "FR",
     "iso3": "FRA",
-    "phone_code": 33
+    "phone_code": 33,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Gabón",
@@ -573,7 +650,8 @@ var jsonPaises = [
     "nom": "Gabon",
     "iso2": "GA",
     "iso3": "GAB",
-    "phone_code": 241
+    "phone_code": 241,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Gambia",
@@ -581,7 +659,8 @@ var jsonPaises = [
     "nom": "Gambie",
     "iso2": "GM",
     "iso3": "GMB",
-    "phone_code": 220
+    "phone_code": 220,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Georgia",
@@ -589,7 +668,8 @@ var jsonPaises = [
     "nom": "Géorgie",
     "iso2": "GE",
     "iso3": "GEO",
-    "phone_code": 995
+    "phone_code": 995,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Ghana",
@@ -597,7 +677,8 @@ var jsonPaises = [
     "nom": "Ghana",
     "iso2": "GH",
     "iso3": "GHA",
-    "phone_code": 233
+    "phone_code": 233,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Gibraltar",
@@ -605,7 +686,8 @@ var jsonPaises = [
     "nom": "Gibraltar",
     "iso2": "GI",
     "iso3": "GIB",
-    "phone_code": 350
+    "phone_code": 350,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Granada",
@@ -613,7 +695,8 @@ var jsonPaises = [
     "nom": "Grenade",
     "iso2": "GD",
     "iso3": "GRD",
-    "phone_code": "1 473"
+    "phone_code": "1 473",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Grecia",
@@ -621,7 +704,8 @@ var jsonPaises = [
     "nom": "Grèce",
     "iso2": "GR",
     "iso3": "GRC",
-    "phone_code": 30
+    "phone_code": 30,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Groenlandia",
@@ -629,7 +713,8 @@ var jsonPaises = [
     "nom": "Groenland",
     "iso2": "GL",
     "iso3": "GRL",
-    "phone_code": 299
+    "phone_code": 299,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guadalupe",
@@ -637,7 +722,8 @@ var jsonPaises = [
     "nom": "Guadeloupe",
     "iso2": "GP",
     "iso3": "GLP",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guam",
@@ -645,7 +731,8 @@ var jsonPaises = [
     "nom": "Guam",
     "iso2": "GU",
     "iso3": "GUM",
-    "phone_code": "1 671"
+    "phone_code": "1 671",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guatemala",
@@ -653,7 +740,8 @@ var jsonPaises = [
     "nom": "Guatemala",
     "iso2": "GT",
     "iso3": "GTM",
-    "phone_code": 502
+    "phone_code": 502,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guayana Francesa",
@@ -661,7 +749,8 @@ var jsonPaises = [
     "nom": "Guyane française",
     "iso2": "GF",
     "iso3": "GUF",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guernsey",
@@ -669,7 +758,8 @@ var jsonPaises = [
     "nom": "Guernesey",
     "iso2": "GG",
     "iso3": "GGY",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guinea",
@@ -677,7 +767,8 @@ var jsonPaises = [
     "nom": "Guinée",
     "iso2": "GN",
     "iso3": "GIN",
-    "phone_code": 224
+    "phone_code": 224,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guinea Ecuatorial",
@@ -685,7 +776,8 @@ var jsonPaises = [
     "nom": "Guinée Equatoriale",
     "iso2": "GQ",
     "iso3": "GNQ",
-    "phone_code": 240
+    "phone_code": 240,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guinea-Bissau",
@@ -693,7 +785,8 @@ var jsonPaises = [
     "nom": "Guinée-Bissau",
     "iso2": "GW",
     "iso3": "GNB",
-    "phone_code": 245
+    "phone_code": 245,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Guyana",
@@ -701,7 +794,8 @@ var jsonPaises = [
     "nom": "Guyane",
     "iso2": "GY",
     "iso3": "GUY",
-    "phone_code": 592
+    "phone_code": 592,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Haití",
@@ -709,7 +803,8 @@ var jsonPaises = [
     "nom": "Haïti",
     "iso2": "HT",
     "iso3": "HTI",
-    "phone_code": 509
+    "phone_code": 509,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Honduras",
@@ -717,7 +812,8 @@ var jsonPaises = [
     "nom": "Honduras",
     "iso2": "HN",
     "iso3": "HND",
-    "phone_code": 504
+    "phone_code": 504,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Hong kong",
@@ -725,7 +821,8 @@ var jsonPaises = [
     "nom": "Hong Kong",
     "iso2": "HK",
     "iso3": "HKG",
-    "phone_code": 852
+    "phone_code": 852,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Hungría",
@@ -733,7 +830,8 @@ var jsonPaises = [
     "nom": "Hongrie",
     "iso2": "HU",
     "iso3": "HUN",
-    "phone_code": 36
+    "phone_code": 36,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "India",
@@ -741,7 +839,8 @@ var jsonPaises = [
     "nom": "Inde",
     "iso2": "IN",
     "iso3": "IND",
-    "phone_code": 91
+    "phone_code": 91,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Indonesia",
@@ -749,7 +848,8 @@ var jsonPaises = [
     "nom": "Indonésie",
     "iso2": "ID",
     "iso3": "IDN",
-    "phone_code": 62
+    "phone_code": 62,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Irán",
@@ -757,7 +857,8 @@ var jsonPaises = [
     "nom": "Iran",
     "iso2": "IR",
     "iso3": "IRN",
-    "phone_code": 98
+    "phone_code": 98,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Irak",
@@ -765,7 +866,8 @@ var jsonPaises = [
     "nom": "Irak",
     "iso2": "IQ",
     "iso3": "IRQ",
-    "phone_code": 964
+    "phone_code": 964,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Irlanda",
@@ -773,7 +875,8 @@ var jsonPaises = [
     "nom": "Irlande",
     "iso2": "IE",
     "iso3": "IRL",
-    "phone_code": 353
+    "phone_code": 353,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Isla Bouvet",
@@ -781,7 +884,8 @@ var jsonPaises = [
     "nom": "Bouvet Island",
     "iso2": "BV",
     "iso3": "BVT",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Isla de Man",
@@ -789,7 +893,8 @@ var jsonPaises = [
     "nom": "Ile de Man",
     "iso2": "IM",
     "iso3": "IMN",
-    "phone_code": 44
+    "phone_code": 44,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Isla de Navidad",
@@ -797,7 +902,8 @@ var jsonPaises = [
     "nom": "Christmas Island",
     "iso2": "CX",
     "iso3": "CXR",
-    "phone_code": 61
+    "phone_code": 61,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Isla Norfolk",
@@ -805,7 +911,8 @@ var jsonPaises = [
     "nom": "Île de Norfolk",
     "iso2": "NF",
     "iso3": "NFK",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islandia",
@@ -813,7 +920,8 @@ var jsonPaises = [
     "nom": "Islande",
     "iso2": "IS",
     "iso3": "ISL",
-    "phone_code": 354
+    "phone_code": 354,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Bermudas",
@@ -821,7 +929,8 @@ var jsonPaises = [
     "nom": "Bermudes",
     "iso2": "BM",
     "iso3": "BMU",
-    "phone_code": "1 441"
+    "phone_code": "1 441",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Caimán",
@@ -829,7 +938,8 @@ var jsonPaises = [
     "nom": "Iles Caïmans",
     "iso2": "KY",
     "iso3": "CYM",
-    "phone_code": "1 345"
+    "phone_code": "1 345",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Cocos (Keeling)",
@@ -837,7 +947,8 @@ var jsonPaises = [
     "nom": "Cocos (Keeling",
     "iso2": "CC",
     "iso3": "CCK",
-    "phone_code": 61
+    "phone_code": 61,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Cook",
@@ -845,7 +956,8 @@ var jsonPaises = [
     "nom": "Iles Cook",
     "iso2": "CK",
     "iso3": "COK",
-    "phone_code": 682
+    "phone_code": 682,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas de Åland",
@@ -853,7 +965,8 @@ var jsonPaises = [
     "nom": "Îles Åland",
     "iso2": "AX",
     "iso3": "ALA",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Feroe",
@@ -861,7 +974,8 @@ var jsonPaises = [
     "nom": "Iles Féro",
     "iso2": "FO",
     "iso3": "FRO",
-    "phone_code": 298
+    "phone_code": 298,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Georgias del Sur y Sandwich del Sur",
@@ -869,7 +983,8 @@ var jsonPaises = [
     "nom": "Géorgie du Sud et les Îles Sandwich du Sud",
     "iso2": "GS",
     "iso3": "SGS",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Heard y McDonald",
@@ -877,7 +992,8 @@ var jsonPaises = [
     "nom": "Les îles Heard et McDonald",
     "iso2": "HM",
     "iso3": "HMD",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Maldivas",
@@ -885,7 +1001,8 @@ var jsonPaises = [
     "nom": "Maldives",
     "iso2": "MV",
     "iso3": "MDV",
-    "phone_code": 960
+    "phone_code": 960,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Malvinas",
@@ -893,7 +1010,8 @@ var jsonPaises = [
     "nom": "Iles Falkland (Malvinas",
     "iso2": "FK",
     "iso3": "FLK",
-    "phone_code": 500
+    "phone_code": 500,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Marianas del Norte",
@@ -901,7 +1019,8 @@ var jsonPaises = [
     "nom": "Iles Mariannes du Nord",
     "iso2": "MP",
     "iso3": "MNP",
-    "phone_code": "1 670"
+    "phone_code": "1 670",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Marshall",
@@ -909,7 +1028,8 @@ var jsonPaises = [
     "nom": "Iles Marshall",
     "iso2": "MH",
     "iso3": "MHL",
-    "phone_code": 692
+    "phone_code": 692,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Pitcairn",
@@ -917,7 +1037,8 @@ var jsonPaises = [
     "nom": "Iles Pitcairn",
     "iso2": "PN",
     "iso3": "PCN",
-    "phone_code": 870
+    "phone_code": 870,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Salomón",
@@ -925,7 +1046,8 @@ var jsonPaises = [
     "nom": "Iles Salomon",
     "iso2": "SB",
     "iso3": "SLB",
-    "phone_code": 677
+    "phone_code": 677,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Turcas y Caicos",
@@ -933,7 +1055,8 @@ var jsonPaises = [
     "nom": "Iles Turques et Caïques",
     "iso2": "TC",
     "iso3": "TCA",
-    "phone_code": "1 649"
+    "phone_code": "1 649",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Ultramarinas Menores de Estados Unidos",
@@ -941,7 +1064,8 @@ var jsonPaises = [
     "nom": "États-Unis Îles mineures éloignées",
     "iso2": "UM",
     "iso3": "UMI",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Vírgenes Británicas",
@@ -949,7 +1073,8 @@ var jsonPaises = [
     "nom": "Iles Vierges",
     "iso2": "VG",
     "iso3": "VG",
-    "phone_code": "1 284"
+    "phone_code": "1 284",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Islas Vírgenes de los Estados Unidos",
@@ -957,7 +1082,8 @@ var jsonPaises = [
     "nom": "Îles Vierges américaines",
     "iso2": "VI",
     "iso3": "VIR",
-    "phone_code": "1 340"
+    "phone_code": "1 340",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Israel",
@@ -965,7 +1091,8 @@ var jsonPaises = [
     "nom": "Israël",
     "iso2": "IL",
     "iso3": "ISR",
-    "phone_code": 972
+    "phone_code": 972,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Italia",
@@ -973,7 +1100,8 @@ var jsonPaises = [
     "nom": "Italie",
     "iso2": "IT",
     "iso3": "ITA",
-    "phone_code": 39
+    "phone_code": 39,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Jamaica",
@@ -981,7 +1109,8 @@ var jsonPaises = [
     "nom": "Jamaïque",
     "iso2": "JM",
     "iso3": "JAM",
-    "phone_code": "1 876"
+    "phone_code": "1 876",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Japón",
@@ -989,7 +1118,8 @@ var jsonPaises = [
     "nom": "Japon",
     "iso2": "JP",
     "iso3": "JPN",
-    "phone_code": 81
+    "phone_code": 81,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Jersey",
@@ -997,7 +1127,8 @@ var jsonPaises = [
     "nom": "Maillot",
     "iso2": "JE",
     "iso3": "JEY",
-    "phone_code": ""
+    "phone_code": "",
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Jordania",
@@ -1005,7 +1136,8 @@ var jsonPaises = [
     "nom": "Jordan",
     "iso2": "JO",
     "iso3": "JOR",
-    "phone_code": 962
+    "phone_code": 962,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Kazajistán",
@@ -1013,7 +1145,8 @@ var jsonPaises = [
     "nom": "Le Kazakhstan",
     "iso2": "KZ",
     "iso3": "KAZ",
-    "phone_code": 7
+    "phone_code": 7,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Kenia",
@@ -1021,7 +1154,8 @@ var jsonPaises = [
     "nom": "Kenya",
     "iso2": "KE",
     "iso3": "KEN",
-    "phone_code": 254
+    "phone_code": 254,
+	    "flag": "../image/1.png"
   },
   {
     "nombre": "Kirgizstán",
@@ -1029,7 +1163,8 @@ var jsonPaises = [
     "nom": "Kirghizstan",
     "iso2": "KG",
     "iso3": "KGZ",
-    "phone_code": 996
+    "phone_code": 996,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Kiribati",
@@ -1037,7 +1172,8 @@ var jsonPaises = [
     "nom": "Kiribati",
     "iso2": "KI",
     "iso3": "KIR",
-    "phone_code": 686
+    "phone_code": 686,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Kuwait",
@@ -1045,7 +1181,8 @@ var jsonPaises = [
     "nom": "Koweït",
     "iso2": "KW",
     "iso3": "KWT",
-    "phone_code": 965
+    "phone_code": 965,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Líbano",
@@ -1053,7 +1190,8 @@ var jsonPaises = [
     "nom": "Liban",
     "iso2": "LB",
     "iso3": "LBN",
-    "phone_code": 961
+    "phone_code": 961,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Laos",
@@ -1061,7 +1199,8 @@ var jsonPaises = [
     "nom": "Laos",
     "iso2": "LA",
     "iso3": "LAO",
-    "phone_code": 856
+    "phone_code": 856,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Lesoto",
@@ -1069,7 +1208,8 @@ var jsonPaises = [
     "nom": "Lesotho",
     "iso2": "LS",
     "iso3": "LSO",
-    "phone_code": 266
+    "phone_code": 266,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Letonia",
@@ -1077,7 +1217,8 @@ var jsonPaises = [
     "nom": "La Lettonie",
     "iso2": "LV",
     "iso3": "LVA",
-    "phone_code": 371
+    "phone_code": 371,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Liberia",
@@ -1085,7 +1226,8 @@ var jsonPaises = [
     "nom": "Liberia",
     "iso2": "LR",
     "iso3": "LBR",
-    "phone_code": 231
+    "phone_code": 231,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Libia",
@@ -1093,7 +1235,8 @@ var jsonPaises = [
     "nom": "Libye",
     "iso2": "LY",
     "iso3": "LBY",
-    "phone_code": 218
+    "phone_code": 218,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Liechtenstein",
@@ -1101,7 +1244,8 @@ var jsonPaises = [
     "nom": "Liechtenstein",
     "iso2": "LI",
     "iso3": "LIE",
-    "phone_code": 423
+    "phone_code": 423,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Lituania",
@@ -1109,7 +1253,8 @@ var jsonPaises = [
     "nom": "La Lituanie",
     "iso2": "LT",
     "iso3": "LTU",
-    "phone_code": 370
+    "phone_code": 370,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Luxemburgo",
@@ -1117,7 +1262,8 @@ var jsonPaises = [
     "nom": "Luxembourg",
     "iso2": "LU",
     "iso3": "LUX",
-    "phone_code": 352
+    "phone_code": 352,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "México",
@@ -1125,7 +1271,8 @@ var jsonPaises = [
     "nom": "Mexique",
     "iso2": "MX",
     "iso3": "MEX",
-    "phone_code": 52
+    "phone_code": 52,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mónaco",
@@ -1133,7 +1280,8 @@ var jsonPaises = [
     "nom": "Monaco",
     "iso2": "MC",
     "iso3": "MCO",
-    "phone_code": 377
+    "phone_code": 377,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Macao",
@@ -1141,7 +1289,8 @@ var jsonPaises = [
     "nom": "Macao",
     "iso2": "MO",
     "iso3": "MAC",
-    "phone_code": 853
+    "phone_code": 853,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Macedônia",
@@ -1149,7 +1298,8 @@ var jsonPaises = [
     "nom": "Macédoine",
     "iso2": "MK",
     "iso3": "MKD",
-    "phone_code": 389
+    "phone_code": 389,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Madagascar",
@@ -1157,7 +1307,8 @@ var jsonPaises = [
     "nom": "Madagascar",
     "iso2": "MG",
     "iso3": "MDG",
-    "phone_code": 261
+    "phone_code": 261,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Malasia",
@@ -1165,7 +1316,8 @@ var jsonPaises = [
     "nom": "Malaisie",
     "iso2": "MY",
     "iso3": "MYS",
-    "phone_code": 60
+    "phone_code": 60,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Malawi",
@@ -1173,7 +1325,8 @@ var jsonPaises = [
     "nom": "Malawi",
     "iso2": "MW",
     "iso3": "MWI",
-    "phone_code": 265
+    "phone_code": 265,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mali",
@@ -1181,7 +1334,8 @@ var jsonPaises = [
     "nom": "Mali",
     "iso2": "ML",
     "iso3": "MLI",
-    "phone_code": 223
+    "phone_code": 223,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Malta",
@@ -1189,7 +1343,8 @@ var jsonPaises = [
     "nom": "Malte",
     "iso2": "MT",
     "iso3": "MLT",
-    "phone_code": 356
+    "phone_code": 356,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Marruecos",
@@ -1197,7 +1352,8 @@ var jsonPaises = [
     "nom": "Maroc",
     "iso2": "MA",
     "iso3": "MAR",
-    "phone_code": 212
+    "phone_code": 212,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Martinica",
@@ -1205,7 +1361,8 @@ var jsonPaises = [
     "nom": "Martinique",
     "iso2": "MQ",
     "iso3": "MTQ",
-    "phone_code": ""
+    "phone_code": "",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mauricio",
@@ -1213,7 +1370,8 @@ var jsonPaises = [
     "nom": "Iles Maurice",
     "iso2": "MU",
     "iso3": "MUS",
-    "phone_code": 230
+    "phone_code": 230,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mauritania",
@@ -1221,7 +1379,8 @@ var jsonPaises = [
     "nom": "Mauritanie",
     "iso2": "MR",
     "iso3": "MRT",
-    "phone_code": 222
+    "phone_code": 222,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mayotte",
@@ -1229,7 +1388,8 @@ var jsonPaises = [
     "nom": "Mayotte",
     "iso2": "YT",
     "iso3": "MYT",
-    "phone_code": 262
+    "phone_code": 262,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Micronesia",
@@ -1237,7 +1397,8 @@ var jsonPaises = [
     "nom": "Federados Estados de",
     "iso2": "FM",
     "iso3": "FSM",
-    "phone_code": 691
+    "phone_code": 691,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Moldavia",
@@ -1245,7 +1406,8 @@ var jsonPaises = [
     "nom": "Moldavie",
     "iso2": "MD",
     "iso3": "MDA",
-    "phone_code": 373
+    "phone_code": 373,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mongolia",
@@ -1253,7 +1415,8 @@ var jsonPaises = [
     "nom": "Mongolie",
     "iso2": "MN",
     "iso3": "MNG",
-    "phone_code": 976
+    "phone_code": 976,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Montenegro",
@@ -1261,7 +1424,8 @@ var jsonPaises = [
     "nom": "Monténégro",
     "iso2": "ME",
     "iso3": "MNE",
-    "phone_code": 382
+    "phone_code": 382,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Montserrat",
@@ -1269,7 +1433,8 @@ var jsonPaises = [
     "nom": "Montserrat",
     "iso2": "MS",
     "iso3": "MSR",
-    "phone_code": "1 664"
+    "phone_code": "1 664",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Mozambique",
@@ -1277,7 +1442,8 @@ var jsonPaises = [
     "nom": "Mozambique",
     "iso2": "MZ",
     "iso3": "MOZ",
-    "phone_code": 258
+    "phone_code": 258,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Namibia",
@@ -1285,7 +1451,8 @@ var jsonPaises = [
     "nom": "Namibie",
     "iso2": "NA",
     "iso3": "NAM",
-    "phone_code": 264
+    "phone_code": 264,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Nauru",
@@ -1293,7 +1460,8 @@ var jsonPaises = [
     "nom": "Nauru",
     "iso2": "NR",
     "iso3": "NRU",
-    "phone_code": 674
+    "phone_code": 674,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Nepal",
@@ -1301,7 +1469,8 @@ var jsonPaises = [
     "nom": "Népal",
     "iso2": "NP",
     "iso3": "NPL",
-    "phone_code": 977
+    "phone_code": 977,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Nicaragua",
@@ -1309,7 +1478,8 @@ var jsonPaises = [
     "nom": "Nicaragua",
     "iso2": "NI",
     "iso3": "NIC",
-    "phone_code": 505
+    "phone_code": 505,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Niger",
@@ -1317,7 +1487,8 @@ var jsonPaises = [
     "nom": "Niger",
     "iso2": "NE",
     "iso3": "NER",
-    "phone_code": 227
+    "phone_code": 227,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Nigeria",
@@ -1325,7 +1496,8 @@ var jsonPaises = [
     "nom": "Nigeria",
     "iso2": "NG",
     "iso3": "NGA",
-    "phone_code": 234
+    "phone_code": 234,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Niue",
@@ -1333,7 +1505,8 @@ var jsonPaises = [
     "nom": "Niou",
     "iso2": "NU",
     "iso3": "NIU",
-    "phone_code": 683
+    "phone_code": 683,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Noruega",
@@ -1341,7 +1514,8 @@ var jsonPaises = [
     "nom": "Norvège",
     "iso2": "NO",
     "iso3": "NOR",
-    "phone_code": 47
+    "phone_code": 47,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Nueva Caledonia",
@@ -1349,7 +1523,8 @@ var jsonPaises = [
     "nom": "Nouvelle-Calédonie",
     "iso2": "NC",
     "iso3": "NCL",
-    "phone_code": 687
+    "phone_code": 687,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Nueva Zelanda",
@@ -1357,7 +1532,8 @@ var jsonPaises = [
     "nom": "Nouvelle-Zélande",
     "iso2": "NZ",
     "iso3": "NZL",
-    "phone_code": 64
+    "phone_code": 64,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Omán",
@@ -1365,7 +1541,8 @@ var jsonPaises = [
     "nom": "Oman",
     "iso2": "OM",
     "iso3": "OMN",
-    "phone_code": 968
+    "phone_code": 968,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Países Bajos",
@@ -1373,7 +1550,8 @@ var jsonPaises = [
     "nom": "Pays-Bas",
     "iso2": "NL",
     "iso3": "NLD",
-    "phone_code": 31
+    "phone_code": 31,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Pakistán",
@@ -1381,7 +1559,8 @@ var jsonPaises = [
     "nom": "Pakistan",
     "iso2": "PK",
     "iso3": "PAK",
-    "phone_code": 92
+    "phone_code": 92,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Palau",
@@ -1389,7 +1568,8 @@ var jsonPaises = [
     "nom": "Palau",
     "iso2": "PW",
     "iso3": "PLW",
-    "phone_code": 680
+    "phone_code": 680,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Palestina",
@@ -1397,7 +1577,8 @@ var jsonPaises = [
     "nom": "La Palestine",
     "iso2": "PS",
     "iso3": "PSE",
-    "phone_code": ""
+    "phone_code": "",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Panamá",
@@ -1405,7 +1586,8 @@ var jsonPaises = [
     "nom": "Panama",
     "iso2": "PA",
     "iso3": "PAN",
-    "phone_code": 507
+    "phone_code": 507,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Papúa Nueva Guinea",
@@ -1413,7 +1595,8 @@ var jsonPaises = [
     "nom": "Papouasie-Nouvelle-Guinée",
     "iso2": "PG",
     "iso3": "PNG",
-    "phone_code": 675
+    "phone_code": 675,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Paraguay",
@@ -1421,7 +1604,8 @@ var jsonPaises = [
     "nom": "Paraguay",
     "iso2": "PY",
     "iso3": "PRY",
-    "phone_code": 595
+    "phone_code": 595,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Perú",
@@ -1429,7 +1613,8 @@ var jsonPaises = [
     "nom": "Pérou",
     "iso2": "PE",
     "iso3": "PER",
-    "phone_code": 51
+    "phone_code": 51,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Polinesia Francesa",
@@ -1437,7 +1622,8 @@ var jsonPaises = [
     "nom": "Polynésie française",
     "iso2": "PF",
     "iso3": "PYF",
-    "phone_code": 689
+    "phone_code": 689,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Polonia",
@@ -1445,7 +1631,8 @@ var jsonPaises = [
     "nom": "Pologne",
     "iso2": "PL",
     "iso3": "POL",
-    "phone_code": 48
+    "phone_code": 48,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Portugal",
@@ -1453,7 +1640,8 @@ var jsonPaises = [
     "nom": "Portugal",
     "iso2": "PT",
     "iso3": "PRT",
-    "phone_code": 351
+    "phone_code": 351,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Puerto Rico",
@@ -1461,7 +1649,8 @@ var jsonPaises = [
     "nom": "Porto Rico",
     "iso2": "PR",
     "iso3": "PRI",
-    "phone_code": 1
+    "phone_code": 1,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Qatar",
@@ -1469,7 +1658,8 @@ var jsonPaises = [
     "nom": "Qatar",
     "iso2": "QA",
     "iso3": "QAT",
-    "phone_code": 974
+    "phone_code": 974,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Reino Unido",
@@ -1477,7 +1667,8 @@ var jsonPaises = [
     "nom": "Royaume-Uni",
     "iso2": "GB",
     "iso3": "GBR",
-    "phone_code": 44
+    "phone_code": 44,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "República Centroafricana",
@@ -1485,7 +1676,8 @@ var jsonPaises = [
     "nom": "République Centrafricaine",
     "iso2": "CF",
     "iso3": "CAF",
-    "phone_code": 236
+    "phone_code": 236,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "República Checa",
@@ -1493,7 +1685,8 @@ var jsonPaises = [
     "nom": "République Tchèque",
     "iso2": "CZ",
     "iso3": "CZE",
-    "phone_code": 420
+    "phone_code": 420,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "República Dominicana",
@@ -1501,7 +1694,8 @@ var jsonPaises = [
     "nom": "République Dominicaine",
     "iso2": "DO",
     "iso3": "DOM",
-    "phone_code": "1 809"
+    "phone_code": "1 809",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Reunión",
@@ -1509,7 +1703,8 @@ var jsonPaises = [
     "nom": "Réunion",
     "iso2": "RE",
     "iso3": "REU",
-    "phone_code": ""
+    "phone_code": "",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Ruanda",
@@ -1517,7 +1712,8 @@ var jsonPaises = [
     "nom": "Rwanda",
     "iso2": "RW",
     "iso3": "RWA",
-    "phone_code": 250
+    "phone_code": 250,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Rumanía",
@@ -1525,7 +1721,8 @@ var jsonPaises = [
     "nom": "Roumanie",
     "iso2": "RO",
     "iso3": "ROU",
-    "phone_code": 40
+    "phone_code": 40,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Rusia",
@@ -1533,7 +1730,8 @@ var jsonPaises = [
     "nom": "La Russie",
     "iso2": "RU",
     "iso3": "RUS",
-    "phone_code": 7
+    "phone_code": 7,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Sahara Occidental",
@@ -1541,7 +1739,8 @@ var jsonPaises = [
     "nom": "Sahara Occidental",
     "iso2": "EH",
     "iso3": "ESH",
-    "phone_code": ""
+    "phone_code": "",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Samoa",
@@ -1549,7 +1748,8 @@ var jsonPaises = [
     "nom": "Samoa",
     "iso2": "WS",
     "iso3": "WSM",
-    "phone_code": 685
+    "phone_code": 685,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Samoa Americana",
@@ -1557,7 +1757,8 @@ var jsonPaises = [
     "nom": "Les Samoa américaines",
     "iso2": "AS",
     "iso3": "ASM",
-    "phone_code": "1 684"
+    "phone_code": "1 684",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "San Bartolomé",
@@ -1565,7 +1766,8 @@ var jsonPaises = [
     "nom": "Saint-Barthélemy",
     "iso2": "BL",
     "iso3": "BLM",
-    "phone_code": 590
+    "phone_code": 590,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "San Cristóbal y Nieves",
@@ -1573,7 +1775,8 @@ var jsonPaises = [
     "nom": "Saint Kitts et Nevis",
     "iso2": "KN",
     "iso3": "KNA",
-    "phone_code": "1 869"
+    "phone_code": "1 869",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "San Marino",
@@ -1581,7 +1784,8 @@ var jsonPaises = [
     "nom": "San Marino",
     "iso2": "SM",
     "iso3": "SMR",
-    "phone_code": 378
+    "phone_code": 378,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "San Martín (Francia)",
@@ -1589,7 +1793,8 @@ var jsonPaises = [
     "nom": "Saint-Martin (partie française)",
     "iso2": "MF",
     "iso3": "MAF",
-    "phone_code": "1 599"
+    "phone_code": "1 599",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "San Pedro y Miquelón",
@@ -1597,7 +1802,8 @@ var jsonPaises = [
     "nom": "Saint-Pierre-et-Miquelon",
     "iso2": "PM",
     "iso3": "SPM",
-    "phone_code": 508
+    "phone_code": 508,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "San Vicente y las Granadinas",
@@ -1605,7 +1811,8 @@ var jsonPaises = [
     "nom": "Saint-Vincent et Grenadines",
     "iso2": "VC",
     "iso3": "VCT",
-    "phone_code": "1 784"
+    "phone_code": "1 784",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Santa Elena",
@@ -1613,7 +1820,8 @@ var jsonPaises = [
     "nom": "Ascensión y Tristan de Acuña",
     "iso2": "SH",
     "iso3": "SHN",
-    "phone_code": 290
+    "phone_code": 290,
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Santa Lucía",
@@ -1621,7 +1829,8 @@ var jsonPaises = [
     "nom": "Sainte-Lucie",
     "iso2": "LC",
     "iso3": "LCA",
-    "phone_code": "1 758"
+    "phone_code": "1 758",
+	"flag": "../image/1.png"
   },
   {
     "nombre": "Santo Tomé y Príncipe",
@@ -1629,7 +1838,8 @@ var jsonPaises = [
     "nom": "Sao Tomé et Principe",
     "iso2": "ST",
     "iso3": "STP",
-    "phone_code": 239
+    "phone_code": 239,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Senegal",
@@ -1637,7 +1847,8 @@ var jsonPaises = [
     "nom": "Sénégal",
     "iso2": "SN",
     "iso3": "SEN",
-    "phone_code": 221
+    "phone_code": 221,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Serbia",
@@ -1645,7 +1856,8 @@ var jsonPaises = [
     "nom": "Serbie",
     "iso2": "RS",
     "iso3": "SRB",
-    "phone_code": 381
+    "phone_code": 381,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Seychelles",
@@ -1653,7 +1865,8 @@ var jsonPaises = [
     "nom": "Les Seychelles",
     "iso2": "SC",
     "iso3": "SYC",
-    "phone_code": 248
+    "phone_code": 248,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Sierra Leona",
@@ -1661,7 +1874,8 @@ var jsonPaises = [
     "nom": "Sierra Leone",
     "iso2": "SL",
     "iso3": "SLE",
-    "phone_code": 232
+    "phone_code": 232,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Singapur",
@@ -1669,7 +1883,8 @@ var jsonPaises = [
     "nom": "Singapour",
     "iso2": "SG",
     "iso3": "SGP",
-    "phone_code": 65
+    "phone_code": 65,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Siria",
@@ -1677,7 +1892,8 @@ var jsonPaises = [
     "nom": "Syrie",
     "iso2": "SY",
     "iso3": "SYR",
-    "phone_code": 963
+    "phone_code": 963,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Somalia",
@@ -1685,7 +1901,8 @@ var jsonPaises = [
     "nom": "Somalie",
     "iso2": "SO",
     "iso3": "SOM",
-    "phone_code": 252
+    "phone_code": 252,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Sri lanka",
@@ -1693,7 +1910,8 @@ var jsonPaises = [
     "nom": "Sri Lanka",
     "iso2": "LK",
     "iso3": "LKA",
-    "phone_code": 94
+    "phone_code": 94,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Sudáfrica",
@@ -1701,7 +1919,8 @@ var jsonPaises = [
     "nom": "Afrique du Sud",
     "iso2": "ZA",
     "iso3": "ZAF",
-    "phone_code": 27
+    "phone_code": 27,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Sudán",
@@ -1709,7 +1928,8 @@ var jsonPaises = [
     "nom": "Soudan",
     "iso2": "SD",
     "iso3": "SDN",
-    "phone_code": 249
+    "phone_code": 249,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Suecia",
@@ -1717,7 +1937,8 @@ var jsonPaises = [
     "nom": "Suède",
     "iso2": "SE",
     "iso3": "SWE",
-    "phone_code": 46
+    "phone_code": 46,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Suiza",
@@ -1725,7 +1946,8 @@ var jsonPaises = [
     "nom": "Suisse",
     "iso2": "CH",
     "iso3": "CHE",
-    "phone_code": 41
+    "phone_code": 41,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Surinám",
@@ -1733,7 +1955,8 @@ var jsonPaises = [
     "nom": "Surinam",
     "iso2": "SR",
     "iso3": "SUR",
-    "phone_code": 597
+    "phone_code": 597,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Svalbard y Jan Mayen",
@@ -1741,7 +1964,8 @@ var jsonPaises = [
     "nom": "Svalbard et Jan Mayen",
     "iso2": "SJ",
     "iso3": "SJM",
-    "phone_code": ""
+    "phone_code": "",
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Swazilandia",
@@ -1749,7 +1973,8 @@ var jsonPaises = [
     "nom": "Swaziland",
     "iso2": "SZ",
     "iso3": "SWZ",
-    "phone_code": 268
+    "phone_code": 268,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tadjikistán",
@@ -1757,7 +1982,8 @@ var jsonPaises = [
     "nom": "Le Tadjikistan",
     "iso2": "TJ",
     "iso3": "TJK",
-    "phone_code": 992
+    "phone_code": 992,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tailandia",
@@ -1765,7 +1991,8 @@ var jsonPaises = [
     "nom": "Thaïlande",
     "iso2": "TH",
     "iso3": "THA",
-    "phone_code": 66
+    "phone_code": 66,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Taiwán",
@@ -1773,7 +2000,8 @@ var jsonPaises = [
     "nom": "Taiwan",
     "iso2": "TW",
     "iso3": "TWN",
-    "phone_code": 886
+    "phone_code": 886,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tanzania",
@@ -1781,7 +2009,8 @@ var jsonPaises = [
     "nom": "Tanzanie",
     "iso2": "TZ",
     "iso3": "TZA",
-    "phone_code": 255
+    "phone_code": 255,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Territorio Británico del Océano Índico",
@@ -1789,7 +2018,8 @@ var jsonPaises = [
     "nom": "Territoire britannique de l'océan Indien",
     "iso2": "IO",
     "iso3": "IOT",
-    "phone_code": ""
+    "phone_code": "",
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Territorios Australes y Antárticas Franceses",
@@ -1797,7 +2027,8 @@ var jsonPaises = [
     "nom": "Terres australes françaises",
     "iso2": "TF",
     "iso3": "ATF",
-    "phone_code": ""
+    "phone_code": "",
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Timor Oriental",
@@ -1805,7 +2036,8 @@ var jsonPaises = [
     "nom": "Timor-Oriental",
     "iso2": "TL",
     "iso3": "TLS",
-    "phone_code": 670
+    "phone_code": 670,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Togo",
@@ -1813,7 +2045,8 @@ var jsonPaises = [
     "nom": "Togo",
     "iso2": "TG",
     "iso3": "TGO",
-    "phone_code": 228
+    "phone_code": 228,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tokelau",
@@ -1821,7 +2054,8 @@ var jsonPaises = [
     "nom": "Tokélaou",
     "iso2": "TK",
     "iso3": "TKL",
-    "phone_code": 690
+    "phone_code": 690,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tonga",
@@ -1829,7 +2063,8 @@ var jsonPaises = [
     "nom": "Tonga",
     "iso2": "TO",
     "iso3": "TON",
-    "phone_code": 676
+    "phone_code": 676,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Trinidad y Tobago",
@@ -1837,7 +2072,8 @@ var jsonPaises = [
     "nom": "Trinidad et Tobago",
     "iso2": "TT",
     "iso3": "TTO",
-    "phone_code": "1 868"
+    "phone_code": "1 868",
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tunez",
@@ -1845,7 +2081,8 @@ var jsonPaises = [
     "nom": "Tunisie",
     "iso2": "TN",
     "iso3": "TUN",
-    "phone_code": 216
+    "phone_code": 216,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Turkmenistán",
@@ -1853,7 +2090,8 @@ var jsonPaises = [
     "nom": "Le Turkménistan",
     "iso2": "TM",
     "iso3": "TKM",
-    "phone_code": 993
+    "phone_code": 993,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Turquía",
@@ -1861,7 +2099,8 @@ var jsonPaises = [
     "nom": "Turquie",
     "iso2": "TR",
     "iso3": "TUR",
-    "phone_code": 90
+    "phone_code": 90,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Tuvalu",
@@ -1869,7 +2108,8 @@ var jsonPaises = [
     "nom": "Tuvalu",
     "iso2": "TV",
     "iso3": "TUV",
-    "phone_code": 688
+    "phone_code": 688,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Ucrania",
@@ -1877,7 +2117,8 @@ var jsonPaises = [
     "nom": "L'Ukraine",
     "iso2": "UA",
     "iso3": "UKR",
-    "phone_code": 380
+    "phone_code": 380,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Uganda",
@@ -1885,7 +2126,8 @@ var jsonPaises = [
     "nom": "Ouganda",
     "iso2": "UG",
     "iso3": "UGA",
-    "phone_code": 256
+    "phone_code": 256,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Uruguay",
@@ -1893,7 +2135,8 @@ var jsonPaises = [
     "nom": "Uruguay",
     "iso2": "UY",
     "iso3": "URY",
-    "phone_code": 598
+    "phone_code": 598,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Uzbekistán",
@@ -1901,7 +2144,8 @@ var jsonPaises = [
     "nom": "L'Ouzbékistan",
     "iso2": "UZ",
     "iso3": "UZB",
-    "phone_code": 998
+    "phone_code": 998,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Vanuatu",
@@ -1909,7 +2153,8 @@ var jsonPaises = [
     "nom": "Vanuatu",
     "iso2": "VU",
     "iso3": "VUT",
-    "phone_code": 678
+    "phone_code": 678,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Venezuela",
@@ -1917,7 +2162,8 @@ var jsonPaises = [
     "nom": "Venezuela",
     "iso2": "VE",
     "iso3": "VEN",
-    "phone_code": 58
+    "phone_code": 58,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Vietnam",
@@ -1925,7 +2171,8 @@ var jsonPaises = [
     "nom": "Vietnam",
     "iso2": "VN",
     "iso3": "VNM",
-    "phone_code": 84
+    "phone_code": 84,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Wallis y Futuna",
@@ -1933,7 +2180,8 @@ var jsonPaises = [
     "nom": "Wallis et Futuna",
     "iso2": "WF",
     "iso3": "WLF",
-    "phone_code": 681
+    "phone_code": 681,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Yemen",
@@ -1941,7 +2189,8 @@ var jsonPaises = [
     "nom": "Yémen",
     "iso2": "YE",
     "iso3": "YEM",
-    "phone_code": 967
+    "phone_code": 967,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Yibuti",
@@ -1949,7 +2198,8 @@ var jsonPaises = [
     "nom": "Djibouti",
     "iso2": "DJ",
     "iso3": "DJI",
-    "phone_code": 253
+    "phone_code": 253,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Zambia",
@@ -1957,7 +2207,8 @@ var jsonPaises = [
     "nom": "Zambie",
     "iso2": "ZM",
     "iso3": "ZMB",
-    "phone_code": 260
+    "phone_code": 260,
+  "flag": "../image/1.png"
   },
   {
     "nombre": "Zimbabue",
@@ -1965,6 +2216,7 @@ var jsonPaises = [
     "nom": "Zimbabwe",
     "iso2": "ZW",
     "iso3": "ZWE",
-    "phone_code": 263
+    "phone_code": 263,
+  "flag": "../image/1.png"
   }
 ];

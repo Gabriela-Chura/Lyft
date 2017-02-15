@@ -1,13 +1,18 @@
 function init(){
 	var lista = document.getElementById("lista-paises");
-	var links = lista.getElementsByTagName('a');
+	console.log("djf");
 
-	for (var i=0; i = links.length; i++){
-		links[i].addEventListener('click', onLinkClick);
+	for (var i=0; i < jsonPaises.length; i++){
+		
+		
+		var html = '<a href="singup.html"><li><img src="'+jsonPaises[i].flag+'" alt=""><p>'+jsonPaises[i].nombre+'</p> <p>'+jsonPaises[i].phone_code+'</p></li></a>'; 
+		
+		lista.innerHTML += html; 
 	}
 }
 
 
-function onLinkClick(){
+
+/*function onLinkClick(){
 	localStorage.setItem('country', this.textContent);
-}
+}*/
