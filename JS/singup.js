@@ -1,32 +1,15 @@
 function init (){
    var button = document.getElementById("next");
 	button.addEventListener('click', onNextClick);
-   /*var pais = document.getElementById("country-name");
+ 
+	var flagTwo=document.getElementById("flagTwo");
+	var codePais=document.getElementById("codePais");
+	var srcLocal=localStorage.getItem('src');
+	var codeLocal=localStorage.getItem('code');
+	flagTwo.src=srcLocal;
+	codePais.textContent=codeLocal;
 	
-pais.addEventListener('click', paisesFlags); 
-	
-button.addEventListener('click', onNextClick); 
-    
-  if(localStorage.getItem('country')){
-        
-    setCountry();
-    
-    }*/
 }
-
-function paisesFlags() {
-	window.location.href='../lyft/country.html';
-}
-
-/*function setCountry(){
-  var imagenFlag = localStorage.getItem('flag');
-document.getElementById('flagTwo').value = imagenFlag;
- var flagTwo = document.getElementById("flagTwo")
-flagTwo.setAttribute('src', imagenFlag);
-	}*/
-  
-	/*var cName = document.getElementById('country-name');
-   cName.textContent = localStorage.getItem('');*/
  
 
 function onNextClick(){
