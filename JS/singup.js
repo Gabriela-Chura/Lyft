@@ -1,7 +1,17 @@
 function init (){
    var button = document.getElementById("next");
 	button.addEventListener('click', onNextClick);
- 
+   /*var pais = document.getElementById("country-name");
+	
+pais.addEventListener('click', paisesFlags); 
+	
+button.addEventListener('click', onNextClick); 
+    
+  if(localStorage.getItem('country')){
+        
+    setCountry();
+    
+    }*/
 	var flagTwo=document.getElementById("flagTwo");
 	var codePais=document.getElementById("codePais");
 	var srcLocal=localStorage.getItem('src');
@@ -10,6 +20,7 @@ function init (){
 	codePais.textContent=codeLocal;
 	
 }
+
  
 
 function onNextClick(){
