@@ -67,7 +67,11 @@ padding: 10px 50px;
 }
 
 
-
+#next {
+	background-color: blueviolet;
+	border-color: blueviolet;
+	color: white; 
+}
 
 
 
