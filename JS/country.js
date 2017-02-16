@@ -6,7 +6,7 @@ function init(){
        
 		
 		
-		var html = '<a href="singup.html" onclick="onLinkClick()" ><li class="list-group-item">'+'<img src="'+ jsonPaises[i].imageURL+'" style="height:20px; width: 30px;" alt=""><p class="country">'+jsonPaises[i].nombre+'</p> <span><strong>+'+jsonPaises[i].phone_code+'</strong></span>'+'</li></a>'; 
+		var html = '<a id="country" href="singup.html" onclick="onLinkClick()" ><li class="list-group-item">'+'<img src="'+ jsonPaises[i].imageURL+'" style="height:20px; width: 30px;" alt=""><p class="country">'+jsonPaises[i].nombre+'</p> <span><strong>+'+jsonPaises[i].phone_code+'</strong></span>'+'</li></a>'; 
 		
 		lista.innerHTML += html; 
 	}
@@ -14,10 +14,12 @@ function init(){
 
 
 
-/*function onLinkClick(){
+/*
+function onLinkClick(){
+	
+	var country = document.getElementById('country');
 	localStorage.setItem('country', this.textContent);
-   
-   
+	
 }
 
 
