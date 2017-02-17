@@ -46,6 +46,6 @@ var inputNum = document.getElementById('number').value;
 
 function redireccionar() {
 	
-	window.location.href='login.html';
+	location.href='login.html';
 }
 
