@@ -28,6 +28,6 @@ var regex = /([a-zA-Z]+[@][a-zA-Z]+[.][a-zA-Z]+)/g;
 
 function redireccionar() {
 	
-	window.location.href='../lyft/app.html';
+	window.location.href='app.html';
 }
 
