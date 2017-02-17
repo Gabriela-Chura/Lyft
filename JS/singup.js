@@ -26,9 +26,10 @@ button.addEventListener('click', onNextClick);
 function onNextClick(){
 	
 var inputNum = document.getElementById('number').value;
+var regex = /^([0-9])*$/;
 	
-   if(inputNum==="") {
-        alert("Campo obligatorio");
+   if(inputNum===""||(!regex.test(inputNum))|| inputNum.length>9) {
+        alert("Campo inválido");
        return false; 
           }
 	

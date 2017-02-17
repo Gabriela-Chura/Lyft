@@ -30,12 +30,14 @@ var myLatLng1 = {
  var marker = new google.maps.Marker({
     position: myLatLng,
     map: map,
-    title: 'Aquí hellooo!'
+    title: 'Aquí hellooo!',
+	icon: "image/bloggif_58a70bf41eac6.png"
   });
 	
 	new google.maps.Marker({
     position: myLatLng1,
     map: map,
-    label: '2'
+    label: '2',
+	icon: "image/bloggif_58a70bf41eac6.png"
   });
 }
