@@ -17,7 +17,7 @@ function initMap() {
 };
 
 function centrarMapa(position){
-    map.setZoom(18);
+    map.setZoom(12);
     map.setCenter(new google.maps.LatLng(position.coords.latitude, position.coords.longitude));
     var marker = new google.maps.Marker({
         position: new google.maps.LatLng(position.coords.latitude, position.coords.longitude),
@@ -26,9 +26,6 @@ function centrarMapa(position){
     });
 };
 
-function mostrarErrores(){
-
-}
 
 function init(){
     if(navigator.geolocation){
