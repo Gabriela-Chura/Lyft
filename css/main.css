@@ -38,7 +38,7 @@ display:inline-block;
 font-weight:bold; 
 background-color: rgba(255, 255, 255, 0);
 border: 1px solid white;
-padding: 10px 50px;
+padding:15px 61px;
 }
 
 .color {
@@ -50,10 +50,10 @@ font-weight:bold;
 color: #FFFFFF;
 background-color: #6C2F8F; 
 background-image: -webkit-gradient(linear, left top, left bottom, from(#6C2F8F), to(#e93cec));
-padding: 10px 50px;
+padding: 15px 61px;
 }
 
-.button a {
+.button  {
     color: white;
     font-family: 'Muli', sans-serif;
     font-size: 20px;
