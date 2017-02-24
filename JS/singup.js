@@ -1,4 +1,6 @@
-$(document).ready(function(){
+
+$(document).ready(init);  
+function init(){
    var button = $("#next"); 
     var flagTwo=$("#flagTwo");
 	var codePais=$("#codePais");
@@ -41,7 +43,7 @@ $(document).ready(function(){
     
     
     
-});
+}
 
 
 

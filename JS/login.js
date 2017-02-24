@@ -1,4 +1,7 @@
-$(document).ready(function(){
+$(document).ready(init);  
+
+
+function init (){
     var button = $('#next');
     
     $('#next').click(function(){
@@ -28,7 +31,7 @@ $(document).ready(function(){
 	window.location.href='app.html';
 }
     
-});
+}
 
 
 

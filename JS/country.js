@@ -1,5 +1,5 @@
-// $(document).ready(init) 
-$(document).ready(function(){
+ $(document).ready(init);
+function init(){
 	var jsonPaises = '[{"nombre": "Argentina","phone_code": 54,"imageURL": '+
 		'"image/ar.png"},{"nombre": "Australia","phone_code": 61,"imageURL":'+'"image/au.png"},{"nombre": "Bolivia","phone_code": 591,"imageURL":'+'"image/bo.png"},{"nombre": "Brasil","phone_code": 55,"imageURL":'+'"image/br.png"},{"nombre": "Canadá","phone_code": 1,"imageURL":'+'"image/ca.png"},{"nombre": "China","phone_code": 86,"imageURL":'+'"image/cn.png"},{"nombre": "Colombia","phone_code": 57,"imageURL":'+'"image/co.png"},{"nombre": "Costa Rica","phone_code": 506,"imageURL":'+'"image/cr.png"},{"nombre": "Ecuador","phone_code": 593,"imageURL":'+'"image/ec.png"},{"nombre": "España","phone_code": 34,"imageURL":'+'"image/es.png"},{"nombre": "Francia","phone_code": 33,"imageURL":'+'"image/fr.png"},{"nombre": "Perú","phone_code": 51,"imageURL":'+'"image/pe.png"},{"nombre": "Venezuela","phone_code": 58,"imageURL":'+'"image/ve.png"},{"nombre": "Suiza","phone_code": 41,"imageURL":'+'"image/ch.png"}]';
 
@@ -21,12 +21,13 @@ var listaFinal = '';
 // listaPaises.each(function(){
 // var src = $(this).find('img').attr('src');	
 //})
-
+	for(var i= 0; i<lis.length; i++)
 	{
+		//lis[i].on('click',onLinkClick);
 		lis[i].addEventListener('click',onLinkClick);
 	}
 	
-});
+}
 
 
 function onLinkClick(evt){
