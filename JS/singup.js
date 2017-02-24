@@ -17,7 +17,7 @@ function init(){
         var inputNum = $('#number');
         var regex = /^([0-9])*$/;
 	
-   if(inputNum.val()===""||(!regex.test(inputNum.val()))|| inputNum.val().length>9) {
+   if(inputNum.val()===""||(!regex.test(inputNum.val()))|| inputNum.val().length < 9) {
         alert("Campo inválido");
        return false; 
           }
