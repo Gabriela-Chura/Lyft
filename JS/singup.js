@@ -10,7 +10,7 @@ function init(){
     $("#codePais").html(codeLocal);
 	//flagTwo.src=srcLocal;
 	//codePais.textContent=codeLocal;
-//SI HAY ALGO QUE NO SE CHANGE LOG JQUERY
+	//SI HAY ALGO QUE NO SE CHANGE LOG JQUERY
     
     $("#next").click(function(){
      
