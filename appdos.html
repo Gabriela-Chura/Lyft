@@ -9,35 +9,20 @@
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="icon" type="image/png" href="image/bloggif_58a71d850cdfe.jpeg"/>
 </head>
-<body>
-
+<body onload="init()">
 	<div class="container">
-	<div class="row">
 		<div id="map" style="height:620px"></div>	
 	</div>
-	</div>
 	
-	<select class="selectpicker">
-  <optgroup label="Picnic">
-    <option>Mustard</option>
-    <option>Ketchup</option>
-    <option>Relish</option>
-  </optgroup>
-  <optgroup label="Camping">
-    <option>Tent</option>
-    <option>Flashlight</option>
-    <option>Toilet Paper</option>
-  </optgroup>
-</select>
-
- 
-	<div class="next btn-block">
+	
+	 <div class="next btn-block">
     <button class="btn btn-large btn-block btn-primary" type="button" id="next">Set pickup</button>
 </div>
 
+	
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU1xo2WdqDJ_4uFrjZ--6X1K6nVqbHXDg&callback=initMap" async defer></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU1xo2WdqDJ_4uFrjZ--6X1K6nVqbHXDg&callback=initMap" async defer></script>
-	<script src="JS/app.js"></script>
+	<script src="JS/appdos.js"></script>
 </body>
  
 </html>
