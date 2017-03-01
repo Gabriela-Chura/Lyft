@@ -1,42 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	 <meta charset="UTF-8">
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title>Lyft</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/queries.css">
 	<link rel="stylesheet" href="icon/style.css">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="icon" type="image/png" href="image/bloggif_58a71d850cdfe.jpeg"/>
 </head>
 <body>
-
-	<div class="container">
+<div class="container">
 	<div class="row">
-		<div id="map" style="height:620px">
-		</div>
-<div id="select">	
-	<select id="select" class="selectpicker">
-  <optgroup label="Picnic">
-    <option>Mustard</option>
-    <option>Ketchup</option>
-    <option>Relish</option>
-  </optgroup>	
-</select>	
-</div>
-		
-<div class="next btn-block" id="nextbot">
-   
-    <button class="btn btn-large btn-block btn-primary" type="button" id="next">Set pickup</button>
-</div>	
+	<div id="map">
+	</div>
+<div id="interface">
+	<div class="dropup" id="select">
+	<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" style="width:100%" id="btn-select">
+	<h6>2300 Harrison St <small><br>Pickup location</small></h6>
+	</button>
+		<ul class="dropdown-menu">
+			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;" class="pull-left" id="car"><h6 class="pull-left">Line<br><small>Shared 2 riders max</small></h6></a></li>
+			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;"  class="pull-left"><h6 class="pull-left">Lyft<small><br>4 Seats</small></h6></a></li>
+			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;"  class="pull-left"><h6 class="pull-left">Plus<small><br>6 Seats</small></h6></a></li>
+			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;"  class="pull-left"><h6 class="pull-left">Premier<small><br>High-end 4-seats</small></h6></a></li>
+		</ul>
+	</div>	
+	<div class="next btn-block" id="nextbot">
+	<button class="btn btn-large btn-block btn-primary" type="button" id="next">Set pickup</button>
+	</div>	
+	</div>
+	
 	</div>
 	</div>
 	
-
- 
-	
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU1xo2WdqDJ_4uFrjZ--6X1K6nVqbHXDg&callback=initMap" async defer></script>
 	<script src="JS/app.js"></script>
 </body>

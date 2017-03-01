@@ -73,20 +73,17 @@ padding: 15px 61px;
 	color: white; 
 }
 
-#select {
-	position: relative;
-	bottom: 20px;
+#interface {
+	position: fixed;
+	bottom: 0;
 	width: 100%;
-	margin-top: 10px;
 }
 
-#nextbot{
-	position: relative;
-	bottom: 40px;
+#map {
+	position: absolute;
+	height: 100%;
+	width: 100%;
 }
-
-
-
 
 
 
