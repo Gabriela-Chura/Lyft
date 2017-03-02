@@ -1,28 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	 <meta charset="UTF-8">
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title>Lyft</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/queries.css">
 	<link rel="stylesheet" href="icon/style.css">
 	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="icomoon/style.css">
 	<link rel="icon" type="image/png" href="image/bloggif_58a71d850cdfe.jpeg"/>
 </head>
 <body onload="init()">
-	<div class="container">
-		<div id="map" style="height:620px"></div>	
+<div class="container-fluid">
+	<div class="row">
+	<div id="map">
+	</div>
+<div id="interface">
+<div  id="select primera">
+	<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" style="width:100%" id="btn-select">
+	
+	<ul>
+		<li style=""><h6>2300 Harrison St.</h6></li>	
+		 	 <li style="display:inline-block;"><h6>2300 Harrison St.</h6></li>
+			 <li style="display:inline-block;"><h6>Caltrain Station</h6></li>
+	</ul>
+	</button>
+		
+	</div>	
+	<div  id="select">
+	<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" style="width:100%" >
+	
+	<ul class="segunda">
+		 	 
+			 <li><h6>2300 Harrison St.</h6></li>
+			 <hr style="margin:0; padding:0;">
+			 <li><h6>Caltrain Station</h6></li>
+		</ul>
+	</button>
+		
+	</div>	
+	<div class="next btn-block" id="nextbot">
+	<a href="appdos.html"><button class="btn btn-large btn-block btn-primary" type="button" id="nextdos">Set pickup</button></a>
+	</div>	
 	</div>
 	
+	</div>
+	</div>
 	
-	 <div class="next btn-block">
-    <button class="btn btn-large btn-block btn-primary" type="button" id="next">Set pickup</button>
-</div>
-
-	
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU1xo2WdqDJ_4uFrjZ--6X1K6nVqbHXDg&callback=initMap" async defer></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-	<script src="JS/appdos.js"></script>
-</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU1xo2WdqDJ_4uFrjZ--6X1K6nVqbHXDg&callback=initMap" async defer></script>
+	<script src="JS/app.js"></script>
  
 </html>

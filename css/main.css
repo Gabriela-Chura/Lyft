@@ -1,6 +1,8 @@
-/* *{
+*{
     outline: 1px solid rgba(255, 0, 0, 0.32);
-}*/
+	margin: 0;
+	padding: 0;
+}
 /* INDEX HTML*/
 
 .fondo {
@@ -85,15 +87,21 @@ padding: 15px 61px;
 	width: 100%;
 }
 
+#car {
+	    margin-top: 15px;
+    margin-right: 16px;
+}
 
 
+#nextdos {
+	background-color: rgb(255, 0, 167);
+	border-color: rgb(255, 0, 167);
+	color: white; 
+}
 
-
-
-
-
-
-
+#btn-select{
+	background-color: lightgray;
+}
 
 
 

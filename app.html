@@ -8,27 +8,28 @@
 	<link rel="stylesheet" href="css/queries.css">
 	<link rel="stylesheet" href="icon/style.css">
 	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="icomoon/style.css">
 	<link rel="icon" type="image/png" href="image/bloggif_58a71d850cdfe.jpeg"/>
 </head>
-<body>
-<div class="container">
+<body onload="init()">
+<div class="container-fluid">
 	<div class="row">
 	<div id="map">
 	</div>
 <div id="interface">
 	<div class="dropup" id="select">
 	<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" style="width:100%" id="btn-select">
-	<h6>2300 Harrison St <small><br>Pickup location</small></h6>
+	<h6><span class="icon-circle-down" style="float: left; margin-left: 20px; font-size: 20px;"></span>2300 Harrison St <small><br>Pickup location</small></h6>
 	</button>
 		<ul class="dropdown-menu">
-			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;" class="pull-left" id="car"><h6 class="pull-left">Line<br><small>Shared 2 riders max</small></h6></a></li>
-			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;"  class="pull-left"><h6 class="pull-left">Lyft<small><br>4 Seats</small></h6></a></li>
-			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;"  class="pull-left"><h6 class="pull-left">Plus<small><br>6 Seats</small></h6></a></li>
-			 <li><a href="#"><img src="image/bloggif_58a70bf41eac6.png" alt="" width="10px;"  class="pull-left"><h6 class="pull-left">Premier<small><br>High-end 4-seats</small></h6></a></li>
+			 <li><a href="#"><img src="image/1%20(1).png" alt="" width="25px;" class="pull-left" id="car"><h6 class="pull-left">Line <span style="margin-left:92px;" >3</span><br><small>Shared 2 riders max</small><small style="margin-left: 35px;">Min</small></h6></a></li>
+			 <li><a href="#"><img src="image/1%20(2).png" alt="" width="25px;"  class="pull-left"  id="car"><h6 class="pull-left">Lyft<span style="margin-left:97px;" >3</span><small><br>4 Seats</small><small style="margin-left: 83px;">Min</small></h6></a></li>
+			 <li><a href="#"><img src="image/1%20(3).png" alt="" width="25px;"  class="pull-left"  id="car"><h6 class="pull-left">Plus<span style="margin-left:92px;" >4</span><small><br>6 Seats</small><small style="margin-left: 82px;">Min</small></h6></a></li>
+			 <li><a href="#"><img src="image/1%20(4).png" alt="" width="25px;"  class="pull-left"  id="car"><h6 class="pull-left">Premier<span style="margin-left:75px;" >3</span><small><br>High-end 4-seats</small><small style="margin-left: 44px;">Min</small></h6></a></li>
 		</ul>
 	</div>	
 	<div class="next btn-block" id="nextbot">
-	<button class="btn btn-large btn-block btn-primary" type="button" id="next">Set pickup</button>
+	<a href="appdos.html"><button class="btn btn-large btn-block btn-primary" type="button" id="next">Set pickup</button></a>
 	</div>	
 	</div>
 	
