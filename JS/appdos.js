@@ -29,13 +29,14 @@ function centrarMapa(position){
 
 
 function init(){
-    if(navigator.geolocation)
-	{
-        console.log('soportado');
-        navigator.geolocation.watchPosition(centrarMapa);
-    }
-    else
-    {
-        console.log('no soportado');
-    }
+   $.ajax({ url:"https://clientes.geekadvice.pe/api/carrera",
+		   	data:{ tipo: 1}
+       		}).success(function(_data){console.log(_data)}).fail(function(){alert("error")});
+
 };
+
+
+
+
+
+

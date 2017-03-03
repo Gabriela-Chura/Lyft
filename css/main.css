@@ -101,11 +101,15 @@ padding: 15px 61px;
 
 #btn-select{
 	background-color: lightgray;
+	}
+
+#gray, #segunda {
+	list-style: none;
 }
 
-
-
-
+#puntito {
+	float: left;
+}
 
 
 

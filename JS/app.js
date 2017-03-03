@@ -41,6 +41,8 @@ function init(){
 };
 
 
+
+
 /*var myLatLng = {
 	lat: -16.457389199999998, 
 	lng: -71.5315308
