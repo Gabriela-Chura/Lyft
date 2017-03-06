@@ -1,6 +1,6 @@
-*{
+/**{
     outline: 1px solid rgba(255, 0, 0, 0.32);
-}
+}*/
 
 header {
    
@@ -42,6 +42,18 @@ header {
 }
 
 .contenedor {
-       padding-top: 40px;
-    padding-bottom: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#interface {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+#nextdos {
+	background-color: rgb(255, 0, 167);
+	border-color: rgb(255, 0, 167);
+	color: white; 
 }

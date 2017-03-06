@@ -1,5 +1,5 @@
 *{
-    outline: 1px solid rgba(255, 0, 0, 0.32);
+    /*outline: 1px solid rgba(255, 0, 0, 0.32);*/
 	margin: 0;
 	padding: 0;
 }
@@ -68,7 +68,7 @@ padding: 15px 61px;
     font-size: 20px;
 }
 
-
+/*---------------APP----app2----*/
 #next {
 	background-color: blueviolet;
 	border-color: blueviolet;
@@ -111,7 +111,9 @@ padding: 15px 61px;
 	float: left;
 }
 
-
+#lista li a:hover{
+    background-color: white;
+}
 
 
 

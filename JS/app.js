@@ -29,18 +29,18 @@ function centrarMapa(position){
 
 
 function init(){
-    if(navigator.geolocation)
-	{
-        console.log('soportado');
-        navigator.geolocation.watchPosition(centrarMapa);
-    }
-    else
-    {
-        console.log('no soportado');
-    }
+   
+    var lista= $('#lista'); 
+    $('#lista').children().click(function(){
+     localStorage.setItem('carNum', lista.val());
+    });
+    
 };
 
 
+
+/*
+<li><a href="#"><img src="image/1%20(1).png" alt="" width="25px;" class="pull-left" id="car"><h6 class="pull-left">Line <span style="margin-left:92px;" >3</span><br><small>Shared 2 riders max</small><small style="margin-left: 35px;">Min</small></h6></a></li>*/
 
 
 /*var myLatLng = {
