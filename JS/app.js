@@ -31,7 +31,7 @@ function centrarMapa(position){
 function init(){
    
     var lista= $('#lista'); 
-    $('#lista').children().click(function(){
+    $('#lista').click(function(){
      localStorage.setItem('carNum', lista.val());
     });
     
