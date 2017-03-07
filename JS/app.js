@@ -32,7 +32,8 @@ function init(){
    
     var lista= $('#lista'); 
     $('#lista').click(function(){
-     localStorage.setItem('carNum', lista.val());
+    var valor= localStorage.setItem('carNum', JSON.stringify(lista.val()));
+
     });
     
 };

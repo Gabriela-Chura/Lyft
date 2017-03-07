@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="icomoon/style.css">
 	<link rel="icon" type="image/png" href="image/bloggif_58a71d850cdfe.jpeg"/>
 </head>
-<body onload="init()">
+<body>
 <div class="container-fluid">
 	<div class="row">
 	<div id="map">
@@ -42,7 +42,7 @@
 			 	<br> <small>Payment</small>
 			 </div>
 			 <div class="col-xs-6" id="marco">
-			 	<small>$6-12</small><br><small>Price estimate</small>
+			 	<small id="precio">$6-12</small><br><small>Price estimate</small>
 			 </div>
 			 </div>
 			  </div>
@@ -61,7 +61,7 @@
 			 <div class="col-xs-2" id="rosado">
 			 	◕
 			 </div>
-			 <div class="col-xs-10">
+			 <div class="col-xs-10" id="origen">
 			 	2300 Harrison St.
 			 </div>
 			 </div>
@@ -71,7 +71,7 @@
 			 <div class="col-xs-2" id="moradito">
 			 	◕
 			 </div>
-			 <div class="col-xs-10">
+			 <div class="col-xs-10" id="destino">
 			 	Caltrain station
 			 </div>
 			 </div>
@@ -81,7 +81,7 @@
 		
 	</div>	
 	<div class="next btn-block" id="nextbot">
-	<a href="pay.html"><button class="btn btn-large btn-block btn-primary" type="button" id="nextdos">Set pickup</button></a>
+	<a href="pay.html"><button class="btn btn-large btn-block btn-primary" type="button" id="nextdos">Request Lyft</button></a>
 	</div>	
 	</div>
 	
@@ -92,6 +92,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU1xo2WdqDJ_4uFrjZ--6X1K6nVqbHXDg&callback=initMap" async defer></script>
-	<script src="JS/app.js"></script>
+	<script src="JS/appdos.js"></script>
  </body>
 </html>

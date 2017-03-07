@@ -1,3 +1,5 @@
+$(document).ready(init);
+
 var map;
 var latlong={
     lat: -16.457389199999998,
@@ -29,13 +31,25 @@ function centrarMapa(position){
 
 
 function init(){
-   $.ajax({ url:"https://clientes.geekadvice.pe/api/carrera",
-		   	data:{ tipo: 1}
-       		}).success(function(_data){console.log(_data)}).fail(function(){alert("error")});
+   $.ajax(
+	   { url:"https://clientes.geekadvice.pe/api/estimado",
+		  data:{ tipo: 2}
+       		}).done(function(_data){
+	   			console.log(_data);
+	   			update(_data);
+	   
+   });
+	
 
 };
 
-
+function update(_info){
+	//alert(_info.destino);
+	$('#origen').html(_info.origen);
+	$('#destino').html(_info.destino);
+	//alert(_info.estimado.min);
+	$('#precio').html('<small id="precio">'+_info.estimado.moneda+_info.estimado.min+'-'+_info.estimado.max+'</small>');
+}
 
 
 
