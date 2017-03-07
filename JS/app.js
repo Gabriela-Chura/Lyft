@@ -31,9 +31,10 @@ function centrarMapa(position){
 function init(){
    
     var lista= $('#lista'); 
-    $('#lista').click(function(){
-    var valor= localStorage.setItem('carNum', JSON.stringify(lista.val()));
-
+    $('#lista').children('li').click(function(){
+    //var valor= localStorage.setItem('carNum', JSON.stringify(lista.val()));//
+ 		alert('ho');
+		console.log($(this));
     });
     
 };
