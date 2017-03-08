@@ -63,7 +63,7 @@ function update(_info){
 	$('#destino').html(_info.destino);
 	//alert(_info.estimado.min);
 	$('#precio').html('<small id="precio">'+_info.estimado.moneda+_info.estimado.min+'-'+_info.estimado.max+'</small>');
-}
+};
 
 
 
