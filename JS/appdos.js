@@ -29,8 +29,22 @@ function centrarMapa(position){
     });
 };
 
-
 function init(){
+   if(navigator.geolocation)
+{
+       console.log('soportado');
+       navigator.geolocation.watchPosition(centrarMapa);
+   }
+   else
+   {
+       console.log('no soportado');
+   }
+	
+	ajax();
+};
+
+function ajax(){
+	
    $.ajax(
 	   { url:"https://clientes.geekadvice.pe/api/estimado",
 		  data:{ tipo: 2}

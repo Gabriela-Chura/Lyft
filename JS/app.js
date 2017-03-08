@@ -27,8 +27,19 @@ function centrarMapa(position){
     });
 };
 
-
 function init(){
+   if(navigator.geolocation)
+{
+       console.log('soportado');
+       navigator.geolocation.watchPosition(centrarMapa);
+   }
+   else
+   {
+       console.log('no soportado');
+   }
+};
+
+/*function init(){
    
     var lista= $('#lista'); 
     $('#lista').children('li').click(function(){
@@ -37,7 +48,7 @@ function init(){
 		console.log($(this));
     });
     
-};
+};*/
 
 
 
