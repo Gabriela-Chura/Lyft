@@ -40,6 +40,14 @@ function init(){
        console.log('no soportado');
    }
 	
+	var car=$("#car");
+	var nameCar=$("#nameCar");
+	var imageCar=localStorage.getItem('src');
+	var nameCar=localStorage.getItem('name');
+    $('#car').attr('src', imageCar);
+    $("#nameCar").html(nameCar);
+	
+	
 	ajax();
 };
 

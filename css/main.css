@@ -40,7 +40,7 @@ display:inline-block;
 font-weight:bold; 
 background-color: rgba(255, 255, 255, 0);
 border: 1px solid white;
-padding:15px 61px;
+padding: 12px 50px;
 }
 
 .color {
@@ -52,21 +52,27 @@ font-weight:bold;
 color: #FFFFFF;
 background-color: #6C2F8F; 
 background-image: -webkit-gradient(linear, left top, left bottom, from(#6C2F8F), to(#e93cec));
-padding: 15px 61px;
+padding: 12px 50px;
 }
 
 .button  {
     color: white;
     font-family: 'Muli', sans-serif;
-    font-size: 20px;
+    font-size: 11px;
 }
 
 .button a:hover {
     text-decoration: none;
     color: white;
     font-family: 'Muli', sans-serif;
-    font-size: 20px;
+    font-size: 11px;
 }
+
+.minutos {
+	margin-left:116px;
+}
+
+
 
 /*---------------APP----app2----*/
 #next {
@@ -87,8 +93,8 @@ padding: 15px 61px;
 	width: 100%;
 }
 
-#car {
-	    margin-top: 15px;
+#car .puntito {
+	margin-top: 15px;
     margin-right: 16px;
 }
 
@@ -108,7 +114,7 @@ padding: 15px 61px;
 	list-style: none;
 }
 
-#puntito {
+.puntito {
 	float: left;
 }
 
