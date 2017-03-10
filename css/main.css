@@ -93,7 +93,7 @@ padding: 12px 50px;
 	width: 100%;
 }
 
-#car .puntito {
+#car, .puntito {
 	margin-top: 15px;
     margin-right: 16px;
 }
