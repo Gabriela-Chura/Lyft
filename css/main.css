@@ -58,14 +58,14 @@ padding: 12px 50px;
 .button  {
     color: white;
     font-family: 'Muli', sans-serif;
-    font-size: 11px;
+    font-size: 10px;
 }
 
 .button a:hover {
     text-decoration: none;
     color: white;
     font-family: 'Muli', sans-serif;
-    font-size: 11px;
+    font-size: 10px;
 }
 
 .minutos {
